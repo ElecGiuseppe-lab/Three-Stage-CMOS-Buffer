@@ -14,3 +14,7 @@ This paper focuses on the design and analysis of a three-stage CMOS buffer using
 > from the Command Window, to implement the `Energy` and `DelayConstraint` models.
 > <br><br>
 > ![optimintool.png](https://github.com/ElecGiuseppe-lab/Three-Stage-CMOS-Buffer/blob/master/img/optimintool.png)
+
+
+> [!IMPORTANT]
+> Setting your own path in LTspice schematics.
