@@ -7,7 +7,7 @@ This paper focuses on the design and analysis of a three-stage CMOS buffer using
 
 
 > [!NOTE]
-> Use the **Optimize Live Editor (Solver-based)** tool, by calling the command  
+> In MATLAB, use the **Optimize Live Editor (Solver-based)** tool, by calling the command  
 >    ```bash
 >    >> optimtool
 >    ```
