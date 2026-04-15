@@ -9,6 +9,7 @@ This paper focuses on the design and analysis of a three-stage CMOS buffer using
 > [!NOTE]
 > Use the Optimize Live Editor (Solver-based) tool, by calling the command  
 >    ```bash
->    optimtool
+>    >> optimtool
 >    ```
 > from the Command Window, to implement the `Energy` and `DelayConstraint` models.
+> ![optimintool.png](https://github.com/ElecGiuseppe-lab/Three-Stage-CMOS-Buffer/blob/master/img/optimintool.png)
